@@ -1,9 +1,9 @@
-7* Added comment from repository 1 (machine 1) */
+/* Added comment from repository 1 (machine 1) */
 #include <iostream>
 
 using nammespace std;
 
-int main()
+int main() //Another comment from repository 1 (machine)
 {
        cout << "Git,let's go!!" <<endl;
        cout << "Added line 1" << endl;
